@@ -1,10 +1,3 @@
-/*------------------------------------------------------------------
-Template Name:  N. agency - Responisve Landing Page for Agency
-Version:        1.0
-Last update:    12/17/2017
-Author:         tabthemes
-URL:            http://www.tabthemes.com/
--------------------------------------------------------------------*/
 
 $(function () {
 	'use strict';
